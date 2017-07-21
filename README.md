@@ -1,6 +1,6 @@
 # learn-webpack
 
-## 参考教程：https://doc.webpack-china.org/guides/getting-started/
+## 参考教程：https://doc.webpack-china.org/guides/getting-started/ 
 
 ### webpack 核心概念
 
